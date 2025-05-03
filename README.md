@@ -69,7 +69,7 @@
 
 ### 🔗 Featured Projects
 
-- 🎯 **ResumeSnAP** – AI-powered resume scoring, job matching & mock interviews  
+- 🎯 **ResumeSnap** – AI-powered resume scoring, job matching & mock interviews  
   [🔗 resumesnap.alchosting.net](https://resumesnap.alchosting.net)
 
 - 🗳️ **NIRVACHAN** – Political manifesto verifier for voter awareness  
