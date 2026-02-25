@@ -24,7 +24,6 @@
 
 <br>
 
-- 🔭 **Currently crafting:** [**NIRVACHAN**](https://nirvachan.alchosting.net) – *AI-powered manifesto analyzer & voter awareness platform*  
 - 🌱 **Learning journey:** *Advanced AI Development & Real-Time ML Applications*  
 - 👨‍💻 **Portfolio hub:** [**aiwithpiyush.netlify.app**](https://aiwithpiyush.netlify.app)  
 - 💬 **Let's talk about:** *Python, React, Flask, Django, and AI integrations*  
