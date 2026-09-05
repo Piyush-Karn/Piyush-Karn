@@ -22,7 +22,7 @@
   </rect>
   <g font-family="Verdana,DejaVu Sans,sans-serif">
     <g opacity="0">
-      <text x="70" y="118" font-size="36" font-weight="bold" fill="#00D9FF">438</text>
+      <text x="70" y="118" font-size="36" font-weight="bold" fill="#00D9FF">439</text>
       <text x="70" y="140" font-size="12" fill="#6B7F98">contributions this year</text>
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.13;0.95;1" dur="10s" repeatCount="indefinite"/>
       <animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 14" keyTimes="0;0.05;0.13;0.95;1" dur="10s" repeatCount="indefinite"/>
