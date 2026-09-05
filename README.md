@@ -1,5 +1,5 @@
 <!--
-  piyush-karn / README.md
+  Piyush-Karn / README.md
   Custom animated SVGs live in ./assets  (hero.svg, terminal.svg, metrics.svg)
   Repo links marked TODO below â€” swap in your exact repo URLs.
 -->
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/piyushkarn34316"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://huggingface.co/spaces/piyushkarn/visionx"><img src="https://img.shields.io/badge/Live_Demos-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face demos"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=piyush-karn&label=profile+views&color=00d9ff&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Piyush-Karn&label=profile+views&color=00d9ff&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -72,7 +72,7 @@ A multi-layer gateway that inspects every prompt before it reaches your model â€
 `Python` `FastAPI` `NLP` `Vector DB`
 
 <!-- TODO: replace with the exact repo URL -->
-<a href="https://github.com/piyush-karn"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/Piyush-Karn"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +89,7 @@ Hazard detection for space-station safety scenarios, built to run on constrained
 `YOLOv8` `OpenCV` `TensorRT` `Flask`
 
 <a href="https://piyushkarn-visionx.hf.space/"><img src="https://img.shields.io/badge/Try_it_live-00D9FF?style=for-the-badge&logoColor=000000"/></a>
-<a href="https://github.com/piyush-karn"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/Piyush-Karn"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ Turns unformatted resume text into structured data with a Gemini-backed promptin
 `Python` `Gemini API` `Scikit-learn` `Streamlit`
 
 <a href="https://piyushkarn-resumesnap.hf.space/"><img src="https://img.shields.io/badge/Try_it_live-00D9FF?style=for-the-badge&logoColor=000000"/></a>
-<a href="https://github.com/piyush-karn"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
+<a href="https://github.com/Piyush-Karn"><img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -187,13 +187,11 @@ The main portfolio covers the AI work end to end; the second one is a pure front
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyush-karn&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C7D5E6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=piyush-karn&hide_border=true&theme=tokyonight&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=C7D5E6" alt="Streak" />
+<img width="100%" src="./assets/stats.svg" alt="Contributions, repositories, stars, followers and most used languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-karn&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C7D5E6&langs_count=8" alt="Top languages" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=piyush-karn&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=6&margin-h=6" alt="Trophies" />
+<img width="100%" src="./assets/heatmap.svg" alt="Contribution calendar for the last year" />
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-karn&bg_color=0D1117&color=00D9FF&line=7C3AED&point=C7D5E6&area=true&hide_border=true" alt="Contribution activity" />
+<img width="62%" src="https://streak-stats.demolab.com?user=Piyush-Karn&hide_border=true&theme=tokyonight&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=C7D5E6" alt="Contribution streak" />
 
 </div>
 
@@ -202,9 +200,9 @@ The main portfolio covers the AI work end to end; the second one is a pure front
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush-karn/piyush-karn/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush-karn/piyush-karn/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/piyush-karn/piyush-karn/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush-Karn/Piyush-Karn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush-Karn/Piyush-Karn/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Piyush-Karn/Piyush-Karn/output/snake.svg" />
 </picture>
 
 </div>
@@ -218,6 +216,6 @@ The main portfolio covers the AI work end to end; the second one is a pure front
 <a href="mailto:piyushkarn96@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-00D9FF?style=for-the-badge&logo=minutemailer&logoColor=000000" alt="Email Piyush"/></a>
 <a href="https://linkedin.com/in/piyushkumar-ai"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=140&section=footer&reversal=false" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>
